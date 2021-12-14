@@ -24,12 +24,7 @@ namespace NewRoles
                 {
                     Role = RoleType.ClassD,
                     Chance = 50,
-                }//,
-                //new RoleSpawnPoint
-                //{
-                //    Role = RoleType.Scientist,
-                //    Chance = 50,
-                //}
+                }
             },
             DynamicSpawnPoints = new List<DynamicSpawnPoint>
             {
