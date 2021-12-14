@@ -1,5 +1,5 @@
 ﻿using Exiled.API.Features;
-using Exiled.CustomRoles.API;
+using Exiled.CustomRoles.API;https://github.com/Chaleshka/test/blob/main/NewRoles.cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,9 +10,6 @@ namespace NewRoles
 {
     public class NewRoles : Plugin<Config>
     {
-        //private static readonly NewRoles InstanceValue = new NewRoles();
-
-        //public static NewRoles Instance => InstanceValue;
         public override string Author { get; } = "***";
         public override string Name { get; } = "NewRoles";
         public override string Prefix { get; } = "NR";
